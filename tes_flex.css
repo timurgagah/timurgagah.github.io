@@ -96,6 +96,8 @@ li a{
 footer{
     display: flex;
     height:20px;
+    color: white;
+    background-color gray;
     /* align-items: center; */
     justify-content: center;
 }
