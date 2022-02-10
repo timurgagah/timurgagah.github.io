@@ -96,12 +96,13 @@ li a{
 footer{
     display: flex;
     height:20px;
-    color: white;
-    background-color gray;
+    background-color: gray;
     /* align-items: center; */
     justify-content: center;
 }
-
+footer p{
+    color: white;
+}
 @media (max-width:960px){
     .wrap{
         flex-direction:column-reverse;
